@@ -1,0 +1,47 @@
+Service,ResourceType,ResourceId,Name,Status,Region
+SECURITY,IAM Role,AROAUVBABAB2WVCPOJCFP,AWSServiceRoleForAmazonEKSNodegroup,active,global
+SECURITY,IAM Role,AROAUVBABAB2R43EDNT4C,AWSServiceRoleForApplicationAutoScaling_ECSService,active,global
+SECURITY,IAM Role,AROAUVBABAB2YXSYUBIB4,AWSServiceRoleForAutoScaling,active,global
+SECURITY,IAM Role,AROAUVBABAB27W75MON5I,AWSServiceRoleForAWSServiceCatalogAppRegistry,active,global
+SECURITY,IAM Role,AROAUVBABAB26E4LSZDGH,AWSServiceRoleForBackup,active,global
+SECURITY,IAM Role,AROAUVBABAB2R22EJCZZT,AWSServiceRoleForECS,active,global
+SECURITY,IAM Role,AROAUVBABAB2YUOFHDG2Q,AWSServiceRoleForElasticLoadBalancing,active,global
+SECURITY,IAM Role,AROAUVBABAB23FO2CYOGC,AWSServiceRoleForRDS,active,global
+SECURITY,IAM Role,AROAUVBABAB2YSGZE63F6,AWSServiceRoleForResourceExplorer,active,global
+SECURITY,IAM Role,AROAUVBABAB2ZFJ2PQTM6,AWSServiceRoleForSupport,active,global
+SECURITY,IAM Role,AROAUVBABAB2TEV6JDWX6,AWSServiceRoleForTrustedAdvisor,active,global
+SECURITY,IAM Role,AROAUVBABAB27PRDDBBTO,AWSServiceRoleForVpcLattice,active,global
+SECURITY,IAM Role,AROAUVBABAB26BAGAXOSW,ecsInfrastructureRoleForExpressServices,active,global
+SECURITY,IAM Role,AROAUVBABAB2QEWWJVBJT,ecsTaskExecutionRole,active,global
+SECURITY,IAM Role,AROAUVBABAB2XK36P3IOO,perm-test-deleteme,active,global
+SECURITY,IAM Role,AROAUVBABAB2ZRERPVFUS,rds-monitoring-role,active,global
+SECURITY,IAM Role,AROAUVBABAB2W2BXQGFLS,uni-ext-collab-stg-cleanup-lambda-role,active,global
+SECURITY,IAM Role,AROAUVBABAB2VNJGS2234,uni-ext-collab-stg-discovery-lambda-role,active,global
+SECURITY,IAM Role,AROAUVBABAB24HOD3HHOR,uni-ext-collab-stg-export-lambda-role,active,global
+SECURITY,IAM Role,AROAUVBABAB274UKMSHZL,uni-ext-collab-stg-rds-export-role,active,global
+SECURITY,IAM Role,AROAUVBABAB2UTS7FFS2G,uni-ext-collab-stg-status-lambda-role,active,global
+SECURITY,KMS,a2640e58-5ee1-4b87-a7d1-45261008811a,,active,ap-south-2
+NETWORK,VPC,vpc-054e03cbbf031e831,,active,ap-south-1
+NETWORK,SecurityGroup,sg-00cdf41d9eee00286,default,active,ap-south-1
+SECURITY,KMS,0505a2ec-2308-4051-91ad-d161e2b014a7,,active,ap-south-1
+SECURITY,KMS,1447d21a-321c-4b0e-93fe-a4f47575d6f0,,active,ap-south-1
+SECURITY,KMS,1cca4e87-ee25-4465-9859-d32cac488059,,active,ap-south-1
+SECURITY,KMS,2b9a169b-4157-4985-8d26-ffbb832e195d,,active,ap-south-1
+SECURITY,KMS,4002f64d-fff6-4f53-8016-bafdd34f5add,,active,ap-south-1
+SECURITY,KMS,421738c3-87de-410e-9922-039d78ff6ef7,,active,ap-south-1
+SECURITY,KMS,5d11a61e-8fde-451a-a9d2-a7fb3cba3a49,,active,ap-south-1
+SECURITY,KMS,5e757b52-41e5-40f1-83b2-6af76f703eb8,,active,ap-south-1
+SECURITY,KMS,6035d51d-4c13-4a7a-9beb-247ad5b20faa,,active,ap-south-1
+SECURITY,KMS,60b3af54-2c60-4350-a529-c248803f2dcb,,active,ap-south-1
+SECURITY,KMS,6af3568a-4fbc-4958-8635-43afa0aef48c,,active,ap-south-1
+SECURITY,KMS,782d5b38-dc37-4b96-bd71-9aaa120681b1,,active,ap-south-1
+SECURITY,KMS,90737361-309a-4fa5-b554-89c491dcf0be,,active,ap-south-1
+SECURITY,KMS,986829a4-c28f-47c0-993d-e535f74a07d1,,active,ap-south-1
+SECURITY,KMS,a0a70474-a316-46a1-8170-9610c7f67c82,,active,ap-south-1
+SECURITY,KMS,a390c3ed-6c9c-4699-9011-8eb66b8cc0ea,,active,ap-south-1
+SECURITY,KMS,d3d1b424-6cf9-4fa3-8c93-86e67545d0b1,,active,ap-south-1
+SECURITY,KMS,e7a92795-e561-4eee-aedb-8e1e58fb3faa,,active,ap-south-1
+SECURITY,KMS,fe5513f7-2446-4a1b-bbaa-60b50b16c98f,,active,ap-south-1
+SECURITY,SecretsManager,arn:aws:secretsmanager:ap-south-1:320042238069:secret:rds-snapshot-archival-production-teams-webhook-uiM2hh,rds-snapshot-archival-production-teams-webhook,active,ap-south-1
+SECURITY,KMS,92784f97-165e-47f7-9812-c256bdb6295e,,active,ap-southeast-2
+SECURITY,KMS,43c9a296-4085-4ece-abe1-087b444767de,,active,us-east-1
